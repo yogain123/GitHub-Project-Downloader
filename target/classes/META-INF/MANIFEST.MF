@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringFormSubmission
+Implementation-Version: 0.0.1
+Built-By: apple
+Implementation-Vendor-Id: com.springjava4dev
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/springformsu
+ bmission/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
